@@ -12,6 +12,7 @@ namespace Maths_formulas
 
         static void Main(string[] args)
         {
+            //call functions
             functionA(7);
             functionB(2, 5, -3);
             functionC(5, 6, 7);
